@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j80y5nVS5zU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheUn\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BagajeMod\\BagajeMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheUn\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

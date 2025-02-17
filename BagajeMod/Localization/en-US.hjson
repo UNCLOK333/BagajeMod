@@ -1,0 +1,320 @@
+Mods: {
+	BagajeMod: {
+		NPCName.Bungol: Bungol
+		Emotes.CacaEmote.Command: cacaemote
+
+		Tiles: {
+			CacaDresser.MapEntry: Caca Dresser
+
+			CacaChest: {
+				MapEntry1: Mods.BagajeMod.Tiles.CacaChest.MapEntry1
+				MapEntry0: Mods.BagajeMod.Tiles.CacaChest.MapEntry0
+			}
+		}
+
+		WorldGen: {
+			ExampleOrePassMessage: Mods.BagajeMod.WorldGen.ExampleOrePassMessage
+			BlessedWithExampleOreMessage: Mods.BagajeMod.WorldGen.BlessedWithExampleOreMessage
+		}
+
+		Buffs: {
+			ElClamorBuff: {
+				DisplayName: El Clamor Buff
+				Description: Mods.BagajeMod.Buffs.ElClamorBuff.Description
+			}
+
+			FloppMountBuff: {
+				DisplayName: Flopp Mount Buff
+				Description: Mods.BagajeMod.Buffs.FloppMountBuff.Description
+			}
+
+			FloppaPetBuff: {
+				DisplayName: Floppa Pet Buff
+				Description: Mods.BagajeMod.Buffs.FloppaPetBuff.Description
+			}
+		}
+
+		Items: {
+			TerryMask: {
+				DisplayName: Terry Mask
+				Tooltip: ""
+			}
+
+			InvasionBItem: {
+				DisplayName: Invasion B Item
+				Tooltip: ""
+			}
+
+			RestosDeVida: {
+				DisplayName: Restos De Vida
+				Tooltip: ""
+			}
+
+			TerryBossBag: {
+				DisplayName: Terry Boss Bag
+				Tooltip: ""
+			}
+
+			FragmentoDeAlma: {
+				DisplayName: Fragmento De Alma
+				Tooltip: ""
+			}
+
+			IniciadoSword: {
+				DisplayName: Iniciado Sword
+				Tooltip: ""
+			}
+
+			FloppMountItem: {
+				DisplayName: Flopp Mount Item
+				Tooltip: ""
+			}
+
+			CacAntorcha: {
+				DisplayName: Cac Antorcha
+				Tooltip: ""
+			}
+
+			CacaRosa: {
+				DisplayName: Caca Rosa
+				Tooltip: ""
+			}
+
+			CacaRosaEndurecidaBar: {
+				DisplayName: Caca Rosa Endurecida Bar
+				Tooltip: ""
+			}
+
+			Placeables: {
+				ApocoSiI: {
+					DisplayName: Apoco Si I
+					Tooltip: ""
+				}
+
+				CthulhaI: {
+					DisplayName: Cthulha I
+					Tooltip: ""
+				}
+
+				DeidadDurmienteI: {
+					DisplayName: Deidad Durmiente I
+					Tooltip: ""
+				}
+
+				FinDeLosTiemposI: {
+					DisplayName: Fin De Los Tiempos I
+					Tooltip: ""
+				}
+
+				Los7magnificosI: {
+					DisplayName: Los7magnificos I
+					Tooltip: ""
+				}
+
+				MauuI: {
+					DisplayName: Mauu I
+					Tooltip: ""
+				}
+
+				MiguelI: {
+					DisplayName: Miguel I
+					Tooltip: ""
+				}
+
+				RedencionDeCiboI: {
+					DisplayName: Redencion De Cibo I
+					Tooltip: ""
+				}
+
+				UnyI: {
+					DisplayName: Uny I
+					Tooltip: ""
+				}
+			}
+
+			TerryRelic: {
+				DisplayName: Terry Relic
+				Tooltip: ""
+			}
+
+			TerryTrophy: {
+				DisplayName: Terry Trophy
+				Tooltip: ""
+			}
+
+			BancodetrabajoCaca: {
+				DisplayName: Bancodetrabajo Caca
+				Tooltip: ""
+			}
+
+			CacaBed: {
+				DisplayName: Caca Bed
+				Tooltip: ""
+			}
+
+			CacaChair: {
+				DisplayName: Caca Chair
+				Tooltip: ""
+			}
+
+			CacaChest: {
+				DisplayName: Caca Chest
+				Tooltip: ""
+			}
+
+			CacaClock: {
+				DisplayName: Caca Clock
+				Tooltip: ""
+			}
+
+			CacaDoor: {
+				DisplayName: Caca Door
+				Tooltip: ""
+			}
+
+			CacaDresser: {
+				DisplayName: Caca Dresser
+				Tooltip: ""
+			}
+
+			CacaPlatform: {
+				DisplayName: Caca Platform
+				Tooltip: ""
+			}
+
+			CacaTable: {
+				DisplayName: Caca Table
+				Tooltip: ""
+			}
+
+			CacaToilet: {
+				DisplayName: Caca Toilet
+				Tooltip: ""
+			}
+
+			LadrilloDeCacaRosa: {
+				DisplayName: Ladrillo De Caca Rosa
+				Tooltip: ""
+			}
+
+			ParedDeLadrilloDeCacaRosa: {
+				DisplayName: Pared De Ladrillo De Caca Rosa
+				Tooltip: ""
+			}
+
+			SerHumanoChamuscadoOre: {
+				DisplayName: Ser Humano Chamuscado Ore
+				Tooltip: ""
+			}
+
+			TorretaColocableItem: {
+				DisplayName: Torreta Colocable Item
+				Tooltip: ""
+			}
+
+			Cacaña: {
+				DisplayName: Cacaña
+				Tooltip: ""
+			}
+
+			HachaCaca: {
+				DisplayName: Hacha Caca
+				Tooltip: ""
+			}
+
+			PicodeCacaRosa: {
+				DisplayName: Picode Caca Rosa
+				Tooltip: ""
+			}
+
+			AntiguosSusurros: {
+				DisplayName: Antiguos Susurros
+				Tooltip: ""
+			}
+
+			DelCosmos: {
+				DisplayName: Del Cosmos
+				Tooltip: ""
+			}
+
+			ElClamorItem: {
+				DisplayName: El Clamor Item
+				Tooltip: ""
+			}
+
+			Esplendor: {
+				DisplayName: Esplendor
+				Tooltip: ""
+			}
+
+			LaSombra: {
+				DisplayName: La Sombra
+				Tooltip: ""
+			}
+
+			LlamaEterna: {
+				DisplayName: Llama Eterna
+				Tooltip: ""
+			}
+
+			TorretaDeDardosMitski: {
+				DisplayName: Torreta De Dardos Mitski
+				Tooltip: ""
+			}
+
+			FloppaPetItem: {
+				DisplayName: Floppa Pet Item
+				Tooltip: ""
+			}
+
+			ExampleChestKey: {
+				Tooltip: ""
+				DisplayName: Example Chest Key
+			}
+		}
+
+		NPCs: {
+			BagajeSlime.DisplayName: Bagaje Slime
+			BasuracitaCosita.DisplayName: Basuracita Cosita
+			BergamascoPusneto.DisplayName: Bergamasco Pusneto
+			BocadinPrinceso.DisplayName: Bocadin Princeso
+			BolbolinSangriento.DisplayName: Bolbolin Sangriento
+			Bungol.DisplayName: Bungol
+
+			Bungolnut: {
+				DisplayName: Bungolnut
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeBiome: I like {BiomeName}.
+					DislikeBiome: I dislike {BiomeName}.
+					LoveNPC: I love {NPCName}.
+					HateNPC: I hate {NPCName}.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			BungolPesado.DisplayName: Bungol Pesado
+			BuppyGup.DisplayName: Buppy Gup
+			TerryBody.DisplayName: Terry Body
+			TerryClone.DisplayName: Terry Clone
+		}
+
+		Projectiles: {
+			FloppaPetProjectile.DisplayName: Floppa Pet Projectile
+			AntiguosSusurrosProyectile.DisplayName: Antiguos Susurros Proyectile
+			BalaPinkPopiProyectile.DisplayName: Bala Pink Popi Proyectile
+			EsplendorProyectile.DisplayName: Esplendor Proyectile
+			Floton.DisplayName: Floton
+			ElClamorMinion.DisplayName: El Clamor Minion
+			SparklingBall.DisplayName: Sparkling Ball
+			TerryProjectile.DisplayName: Terry Projectile
+		}
+	}
+}
