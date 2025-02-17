@@ -1,0 +1,3 @@
+displayName = BagajeMod
+author = Unclok
+version = 2
